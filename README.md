@@ -12,4 +12,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
 </div>
 
+### 🔑 GPG [key](https://github.com/Allfass/Allfass/blob/main/Alf_public.asc)
+
 ## Example of code is pinned bellow
